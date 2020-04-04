@@ -1,4 +1,4 @@
-# Merge Citi Bike Files - January 2019 to March 2020
+### Merge Citi Bike Files - January 2019 to March 2020
 
 ### Step 1
 * Save all of your CSV files into a single folder. Make sure that the folder is free from any CSV’s you do not want included
