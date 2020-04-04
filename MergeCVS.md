@@ -1,10 +1,10 @@
 # Merge Citi Bike Files - January 2019 to March 2020
 
 ### Step 1
-* Save all of your CSV files into a single folder. Make sure that the folder is free from any CSV’s you do not want included.
+* Save all of your CSV files into a single folder. Make sure that the folder is free from any CSV’s you do not want included
 
 ### Step 2
-* Open terminal. Check your working directory.
+* Open terminal. Check your working directory
 * Type "pwd" and hit enter
 
 ### Step 3
