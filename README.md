@@ -132,6 +132,8 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 
+### https://public.tableau.com/profile/stacy.giauque#!/vizhome/TableauHomework-CitiBikeAnalytics_SG/Subscribersvs_Customers_Num2?publish=yes
+
 ### Copyright
 
 Data Boot Camp (C) 2019. All Rights Reserved.
